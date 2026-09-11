@@ -1,0 +1,93 @@
+{
+  "release_version": "0.1.0-rc1",
+  "prepared_date": "2026-09-11",
+  "publication_status": "review_candidate_not_published",
+  "target_repository": "https://github.com/duongtrung/DELFI2026",
+  "inspected_base_commit": "5af4585f91c66ebfc0e1ac8c6ac4396265852341",
+  "prepared_data_status": "pseudonymized_and_minimized_not_claimed_anonymous",
+  "data_reuse_terms": "pending_author_confirmation",
+  "reported_data_status": "aggregate_transcriptions_not_individual_survey_rows",
+  "files": [
+    {
+      "path": "data/derived/RESULTS.md",
+      "bytes": 2453,
+      "sha256": "9f811c2463aed8bf703314c5e6353a20780ee5f416e4002b550e60b8f03a9ab9"
+    },
+    {
+      "path": "data/derived/aoi_assignment_counts.csv",
+      "bytes": 127,
+      "sha256": "03c0ef15049c1a4bed46df67d1a9292c711130e39ffd58c70df05768ad1b5d36",
+      "rows": 3
+    },
+    {
+      "path": "data/derived/complete_quiz_scores.csv",
+      "bytes": 54,
+      "sha256": "cf71f663b92aae8b2626d6a02c675d32555dadbdf2ac41e45a068b162be48456",
+      "rows": 4
+    },
+    {
+      "path": "data/derived/phase_summary.csv",
+      "bytes": 325,
+      "sha256": "1692fed60d3556b6c788b0bec707278a798838af5a054d1e5f3f0c4f39f64484",
+      "rows": 4
+    },
+    {
+      "path": "data/derived/session_text_summary.csv",
+      "bytes": 34555,
+      "sha256": "13ca99020f32ea5a955535752fc011269c7e9b265792324fe0058402246b4583",
+      "rows": 600
+    },
+    {
+      "path": "data/derived/summary.json",
+      "bytes": 2003,
+      "sha256": "9f27eaebdf16eef94a29bdc778fd871c52c76fa2e6e1805d53cd3ac006b4b8aa"
+    },
+    {
+      "path": "data/prepared/aoi_events.csv",
+      "bytes": 5907941,
+      "sha256": "66aebfbbdfd5a2538b568638ec5d2afbe046cd541e92ab7514985008e5d57158",
+      "rows": 92138
+    },
+    {
+      "path": "data/prepared/quiz_steps.csv",
+      "bytes": 58051,
+      "sha256": "1ec924e376bc530385413b04cd175581a0f84382eabc7c0642f08b8197ec0ace",
+      "rows": 1880
+    },
+    {
+      "path": "data/prepared/sessions.csv",
+      "bytes": 817,
+      "sha256": "67d44698ce8c81550a4baa4ff034681f8398e79ad6ae99d9dc71be26f6eb143c",
+      "rows": 60
+    },
+    {
+      "path": "data/reported/README.md",
+      "bytes": 2265,
+      "sha256": "45fed9d02322f236e0a145266604cd58b07a116171a7bcb09d57ebb6b452b5ae"
+    },
+    {
+      "path": "data/reported/instruction_strategy_counts.csv",
+      "bytes": 508,
+      "sha256": "77e4cd640fd32580182e114df7f5ef579940f40dce3fec5c4e22d35ca1021381",
+      "rows": 16
+    },
+    {
+      "path": "data/reported/normal_ratings.csv",
+      "bytes": 299,
+      "sha256": "5c110c46bd580dfef03afc6179910d416481b51fb2f5a15d89ec5f7e35038efb",
+      "rows": 3
+    },
+    {
+      "path": "data/reported/normal_strategy_counts.csv",
+      "bytes": 390,
+      "sha256": "5ae0224620687749bb164b56a091049099178432b8fb0ae70ee8a91a7271ceca",
+      "rows": 6
+    },
+    {
+      "path": "data/reported/webcam_configurations.csv",
+      "bytes": 702,
+      "sha256": "e6fb73191917bae12b32e4483764fe02498be10892126bf46c22587ca9a9e495",
+      "rows": 8
+    }
+  ]
+}

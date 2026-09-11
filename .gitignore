@@ -1,0 +1,17 @@
+# Local private inputs and secrets must remain outside this repository.
+private/
+private-originals/
+private-release/
+raw/
+upload/
+*key.bin
+*identity*map*
+*crosswalk*
+*.pem
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.zip

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying DELFI paper and the exact public dataset version once released. This candidate has no dataset DOI."
+type: dataset
+title: "DELFI2026: Webcam Reading Pilot — Data and Documentation"
+version: "0.1.0-rc1"
+repository-code: "https://github.com/duongtrung/DELFI2026"
+authors:
+  - family-names: "Duong-Trung"
+    given-names: "Nghia"
+  - family-names: "Zimmermann"
+    given-names: "Alexander"
+  - family-names: "Tsiakas"
+    given-names: "Konstantinos"
+  - family-names: "Dietrich"
+    given-names: "Michael"
+  - family-names: "Kravčík"
+    given-names: "Miloš"
+abstract: "Minimized application records and reported survey and hardware aggregates from a classroom webcam reading pilot. The application sample covers multiple reading conditions; the DELFI paper's normal-reading survey sample is distinct and incompletely linked."
+keywords:
+  - webcam eye tracking
+  - reading analytics
+  - pilot study
+  - comprehension
+  - areas of interest
+preferred-citation:
+  type: conference-paper
+  title: "Fit-for-Purpose Webcam Eye Tracking for Scalable Reading Analytics: A Pilot Study with Master’s Students"
+  year: 2026
+  authors:
+    - family-names: "Duong-Trung"
+      given-names: "Nghia"
+    - family-names: "Zimmermann"
+      given-names: "Alexander"
+    - family-names: "Tsiakas"
+      given-names: "Konstantinos"
+    - family-names: "Dietrich"
+      given-names: "Michael"
+    - family-names: "Kravčík"
+      given-names: "Miloš"
