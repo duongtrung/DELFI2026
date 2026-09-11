@@ -1,0 +1,9 @@
+configuration_code,camera_label,reported_device_context,width_px,height_px,frames_per_second,source_id,source_location
+C01,HP HD Camera,HP / Windows 11,1280,720,25,CAMERA,Appendix A
+C02,Integrated Camera A,Acer/Asus / Windows 11,1280,720,30,CAMERA,Appendix A
+C03,Integrated Camera B,Acer/Asus / Windows 11,1280,720,29,CAMERA,Appendix A
+C04,Integrated Webcam,Dell / Windows 11,2560,1440,30,CAMERA,Appendix A
+C05,Samsung Camera Front,Motorola / Windows 11,1920,1080,29,CAMERA,Appendix A
+C06,MacBook Air Camera,MacBook / macOS,1920,1080,28,CAMERA,Appendix A
+C07,USB2.0 HD UVC Webcam,Legion / Windows 11,1280,720,20,CAMERA,Appendix A
+C08,ASUS HD webcam,Acer/Asus / Windows 11,1280,720,30,CAMERA,Appendix A

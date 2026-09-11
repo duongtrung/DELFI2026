@@ -1,0 +1,82 @@
+{
+  "sessions": 60,
+  "distinct_nonmissing_app_ids": 26,
+  "sessions_without_app_id": 1,
+  "quiz_step_rows": 1880,
+  "question_step_rows": 1800,
+  "text_marker_rows": 80,
+  "event_rows": 92138,
+  "session_text_blocks": 600,
+  "quiz_status_counts": {
+    "complete": 405,
+    "partial": 56,
+    "unscored": 139
+  },
+  "complete_quiz_score_counts": {
+    "0": 24,
+    "1": 55,
+    "2": 57,
+    "3": 269
+  },
+  "complete_quiz_perfect_percent": 66.41975308641975,
+  "aoi_event_counts": {
+    "source_text": 39833,
+    "unassigned": 41473,
+    "question_or_answer": 10832
+  },
+  "assigned_event_percent": 54.98816991903449,
+  "phase_summary": [
+    {
+      "phase": "P1",
+      "sessions": 24,
+      "distinct_nonmissing_app_ids": 23,
+      "sessions_without_app_id": 1,
+      "events": 52173,
+      "question_events": 52173,
+      "text_marker_events": 0,
+      "session_text_blocks": 240,
+      "complete_quizzes": 181,
+      "partial_quizzes": 23,
+      "unscored_quizzes": 36
+    },
+    {
+      "phase": "P2",
+      "sessions": 26,
+      "distinct_nonmissing_app_ids": 22,
+      "sessions_without_app_id": 0,
+      "events": 30228,
+      "question_events": 30228,
+      "text_marker_events": 0,
+      "session_text_blocks": 260,
+      "complete_quizzes": 144,
+      "partial_quizzes": 28,
+      "unscored_quizzes": 88
+    },
+    {
+      "phase": "P3A",
+      "sessions": 2,
+      "distinct_nonmissing_app_ids": 2,
+      "sessions_without_app_id": 0,
+      "events": 1572,
+      "question_events": 1572,
+      "text_marker_events": 0,
+      "session_text_blocks": 20,
+      "complete_quizzes": 20,
+      "partial_quizzes": 0,
+      "unscored_quizzes": 0
+    },
+    {
+      "phase": "P3B",
+      "sessions": 8,
+      "distinct_nonmissing_app_ids": 8,
+      "sessions_without_app_id": 0,
+      "events": 8165,
+      "question_events": 4676,
+      "text_marker_events": 3489,
+      "session_text_blocks": 80,
+      "complete_quizzes": 60,
+      "partial_quizzes": 5,
+      "unscored_quizzes": 15
+    }
+  ]
+}

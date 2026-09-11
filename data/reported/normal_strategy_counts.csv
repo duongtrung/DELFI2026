@@ -1,0 +1,7 @@
+strategy,reports,source_id,source_location
+skimming,52,SURVEY;PAPER,Survey section4.2; Paper Table1
+mixed,49,SURVEY;PAPER,Survey section4.2; Paper Table1
+sequential,47,SURVEY;PAPER,Survey section4.2; Paper Table1
+deep_reading,25,SURVEY;PAPER,Survey section4.2; Paper Table1
+keyword_search,24,SURVEY;PAPER,Survey section4.2; Paper Table1
+other,3,SURVEY;PAPER,Survey section4.2; Paper Table1

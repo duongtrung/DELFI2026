@@ -1,0 +1,5 @@
+phase,sessions,distinct_nonmissing_app_ids,sessions_without_app_id,events,question_events,text_marker_events,session_text_blocks,complete_quizzes,partial_quizzes,unscored_quizzes
+P1,24,23,1,52173,52173,0,240,181,23,36
+P2,26,22,0,30228,30228,0,260,144,28,88
+P3A,2,2,0,1572,1572,0,20,20,0,0
+P3B,8,8,0,8165,4676,3489,80,60,5,15
